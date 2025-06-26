@@ -75,6 +75,19 @@ We use the **two-proportion Z-test** to evaluate:
 
 ---
 
+## 📌 Explanation:
+p_val < alpha: means the difference is statistically significant.
+
+- Z-statistic tells how far apart the conversion rates are.
+- P-value tells if that difference is statistically significant.
+- Alpha = 0.05 means we want at least 95% confidence.
+
+Then you check which group had the higher conversion rate:
+
+If B > A → B is better
+
+If A > B → A is better
+
 ## 📊 Key Steps
 
 1. **Load and clean the dataset**
