@@ -38,7 +38,7 @@ pip install pandas matplotlib seaborn
 
 This project performs a statistical A/B test to analyze user conversion behavior between two groups — **Group A** and **Group B** — and determines if the difference in performance is **statistically significant** using a **Z-test for proportions**.
 
-```
+
 
 ## 📁 Project Structure
 
